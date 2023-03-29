@@ -14,10 +14,10 @@
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://FSJS-Color-Changer-JavaScript-Project.netlify.app/)
+### [HERE](https://fsjs-color-changer-javascript-project.netlify.app/)
 
 ***
 
 ### ![Badge](https://img.shields.io/badge/FINAL-OUTPUT-yellow)
 
-![image](ColorChanger.png)
+![image](/Image/ColorChanger.png)
